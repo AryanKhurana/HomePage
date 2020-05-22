@@ -13,7 +13,7 @@ body{
 
   background-image: url(https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 	width: 100%;
 
 }
@@ -22,9 +22,9 @@ body{
 
 section.midsection p{
 	margin:0;
-  padding:20%;
+  padding:30%;
 	font-family: 'Dancing Script', cursive;
-	font-size:220%;
+	font-size:150%;
 	color: white;
 	text-align: center;
 }
