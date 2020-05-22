@@ -9,17 +9,14 @@ body{
 }
 
 
-
 .midsection{
 
   background-image: url(https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-  background-position: 50% 50%;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-size: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
 
 }
-
 .mid2{
 
   background-image: url(https://images.pexels.com/photos/551588/pexels-photo-551588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
